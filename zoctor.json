@@ -1,5 +1,8 @@
 {
   "product": "Zoctor",
-  "latest": "3.19.12",
-  "released": "2026-11-04"
+  "latest": "3.34.0",
+  "released": "2026-11-24",
+  "versions": [
+    { "version": "3.34.0", "date": "2026-11-24"}
+  ]
 }
